@@ -5,3 +5,9 @@
 # dependencies
 /node_modules
 /bower_components
+
+# auto-generated js and map files
+/src/app/*.js
+/src/app/*.map
+/src/main.js
+/src/main.js.map
